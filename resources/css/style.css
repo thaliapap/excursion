@@ -9,7 +9,6 @@ p{
   font-family: Verdana;
   font-size: 21px;
   color: gray;
-  background-color:black;
   text-align: center;
 }
 .download {
@@ -27,5 +26,9 @@ h2{
 }
 .footer{
   text-align: right;
+  font-family: Verdana;
   color: gray;
+}
+body{background color:black;
+
 }
